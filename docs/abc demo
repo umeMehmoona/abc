@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Desktop</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="A.css">
+</head>
+<body>
+<h1 style="font-size: 40px;font-family:cursive;font-style: normal;color:black;text-align:center;">Our Menu</h1>
+<div class="div1" style="border:2px solid black">
+<div style="height:27px;width:100px;margin-left:297px;background-color:blue;border:2px solid black;text-align:center;font-family: cursive;">Chicken</div>
+<p id="para">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here</p>
+</div>
+<div class="div2" style="border:2px solid black">
+<div style="height:27px;width:100px;margin-left:297px;background-color: red;border:2px solid black;text-align:center;color:white;font-family: cursive">Beef</div>
+<p id="para">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here</p>	
+</div>
+<div class="div3" style="border:2px solid black">
+<div style="height:27px;width:100px;margin-left:297px;background-color:yellow;border:2px solid black;text-align:center;font-family: cursive;">Sushi</div>
+<p id="para">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here</p>
+</div>
+</body>
+</html>
